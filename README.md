@@ -4,7 +4,7 @@
 
 1. **Clone the Repository:**
 
-   git clone 
+   git clone https://github.com/Reouhaddad/JB.28.01.dj1.git
 
 2. **Create Virtual Environment:**
 
